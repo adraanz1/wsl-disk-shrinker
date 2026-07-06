@@ -2,7 +2,8 @@
 
 Automated PowerShell tool to scan and compact expanding **WSL2** and **Docker Desktop** VHDX virtual disks.
 
-![Preview](example.png)
+![Preview1](example1.png)
+![Preview2](example2.png)
 
 ## Description
 
